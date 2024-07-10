@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730237085912",
+    "project_id": "unies-95d25",
+    "storage_bucket": "unies-95d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730237085912:android:eb8a15b199bea3e3010fad",
+        "android_client_info": {
+          "package_name": "school.unies.teacherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJo-z4RFDhoUU9LmwUHzdontY1RaIIAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730237085912:android:1769abde87c54ef1010fad",
+        "android_client_info": {
+          "package_name": "school.unies.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJo-z4RFDhoUU9LmwUHzdontY1RaIIAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
